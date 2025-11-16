@@ -1,5 +1,5 @@
 import { Code2, Rocket, Users, GraduationCap } from "lucide-react";
-import profileImage from "figma:asset/7719e21a673fbc0a8a2ab0bb889281caf3c3ae27.png";
+import profileImage from "../assets/Khun.jpeg";
 
 export function About() {
   const highlights = [

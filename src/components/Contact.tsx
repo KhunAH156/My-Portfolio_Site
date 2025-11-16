@@ -91,7 +91,7 @@ export function Contact() {
               <h3 className="text-white mb-2.5 md:mb-4 text-base md:text-xl">Let's Work Together</h3>
               <p className="text-white/70 text-xs md:text-base">
                 I'm always open to discussing new projects, creative ideas, or opportunities to be part 
-                of your vision. Whether you're looking for a full-stack developer to join your team or 
+                of your vision. Whether you're looking for a developer to join your team or 
                 need someone to bring your project to life, let's connect!
               </p>
             </div>

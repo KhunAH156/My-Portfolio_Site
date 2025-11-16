@@ -10,7 +10,8 @@ export function Footer() {
           <div>
             <h3 className="text-white mb-2 md:mb-4 text-sm md:text-base">{"<Khun />"}</h3>
             <p className="text-white/70 text-xs md:text-base">
-              Building the future, one line of code at a time.
+              I solve Problems Sometimes with code,
+               sometimes with caffeine. Usually both.
             </p>
           </div>
 

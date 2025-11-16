@@ -75,7 +75,6 @@ export function Skills() {
             {[
               "Agile/Scrum",
               "Responsive Design",
-              "WebSockets",
               "System Monitoring",
               "Network Troubleshooting",
               "SQL Scripting",

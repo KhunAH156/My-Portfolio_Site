@@ -9,7 +9,7 @@ export function Hero() {
           <h1 className="text-white mb-4 text-5xl md:text-7xl font-bold">
             Hi, I'm <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400">Khun Aung Hein</span>
           </h1>
-          <h2 className="text-white/90 mb-6">Aspiring Systems Engineer</h2>
+          <h2 className="text-white/90 mb-6">Engineer in progress-Cloud-Software-Devops-Infra</h2>
           <p className="text-white/70 max-w-2xl mx-auto text-lg">
             Passionate about designing, implementing, and maintaining reliable IT infrastructure. 
             Focused on automation, system optimization, and ensuring seamless operations across networks, 

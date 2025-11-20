@@ -7,6 +7,7 @@ import { Skills } from "./components/Skills";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import { Toaster } from "./components/ui/sonner";
+import { ChatBot } from "./components/ChatBot";
 
 export default function App() {
   return (
@@ -21,6 +22,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <ChatBot />
       <Toaster />
     </div>
   );
